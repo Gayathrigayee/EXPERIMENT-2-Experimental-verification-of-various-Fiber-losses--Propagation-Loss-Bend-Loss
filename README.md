@@ -39,7 +39,6 @@ V1/V2 = e [ -a (L1+L2 ) ]
              
 ## CALUCLATE
 ![WhatsApp Image 2025-11-19 at 18 50 10_6592fabd](https://github.com/user-attachments/assets/c22bab93-d7bc-47e3-b2c7-183418419695)
-![WhatsApp Image 2025-11-19 at 18 50 31_3aa566d0](https://github.com/user-attachments/assets/7ee37738-48b5-42d8-b7be-d0a3290019c1)
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
